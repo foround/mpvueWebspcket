@@ -1,0 +1,5 @@
+<template name="18d27cb0">
+  <view bindtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}" class="_div data-v-5eca2e54">
+    <i-button bind:click="handleClick" type="error" long="true" class="_i-button data-v-5eca2e54">联通两边按钮</i-button>
+  </view>
+</template>
